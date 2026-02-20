@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "星空のディスタンス (new take by 1991)",
+  "base_artist": "THE ALFEE",
+  "createdAt": "2026-02-20T08:49:52.346993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星空のディスタンス",
+      "artist": "The ALFEE",
+      "has_synced": true,
+      "path": "select/01_星空のディスタンス_The_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星空のディスタンス",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/02_星空のディスタンス_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星空のディスタンス",
+      "artist": "ALFEE",
+      "has_synced": true,
+      "path": "select/03_星空のディスタンス_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星空のディスタンス - デビュー40周年 スペシャルコンサート at 日本武道館",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/04_星空のディスタンス_-_デビュー40周年_スペシャルコンサート_at_日本武道館_THE_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HE ALFEE - 星空のディスタンス",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_HE_ALFEE_-_星空のディスタンス_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "6,星空のディスタンス…願いが叶いますように",
+      "artist": "あまとろすいーつ",
+      "has_synced": true,
+      "path": "select/06_6,星空のディスタンス...願いが叶いますように_あまとろすいーつ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星空のディスタンス",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/pl_01_星空のディスタンス_THE_ALFEE.txt"
+    }
+  ]
+}
